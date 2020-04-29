@@ -6,6 +6,13 @@ import java.net.Socket;
 
 /*
     创建BS版本TCP服务器
+
+    客户端是浏览器 访问服务器
+    服务器端是serverSocket
+    服务器端读取客户端的请求信息（切割请求地址信息）
+    服务器端给客户端回写一个信息，回写一个html页面（文件）
+    （我们需要读取这个文件（html文件）的地址，这个地址来自客户端请求信息的第一行：GET /11_Net/web/index.html HTTP/1.1
+    通过网络输入流对象读取客户端的请求信息，把网络输入流对象转换为本地的字节缓冲流对象，并分割读取包含的地址信息）
  */
 public class TCPServer {
     public static void main(String[] args) throws IOException {
@@ -13,6 +20,7 @@ public class TCPServer {
         ServerSocket server = new ServerSocket(8888);
         //使用accept方法获取到请求的客户端对象(浏览器)
         Socket socket = server.accept();
+
         //使用Socket对象中的方法getInputStream,获取到网络字节输入流InputStream对象
         InputStream is = socket.getInputStream();
         //使用网络字节输入流InputStream对象中的方法read读取客户端的请求信息

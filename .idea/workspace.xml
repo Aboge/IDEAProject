@@ -1,7 +1,422 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a95216a3-d588-46e7-a0a4-51119705fbac" name="Default Changelist" comment="" />
+    <list default="true" id="a95216a3-d588-46e7-a0a4-51119705fbac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/aboge.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_Javaweb基础/15_Javaweb基础.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_Javaweb基础/src/domain/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_Javaweb基础/src/domain/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_Javaweb基础/src/itcast/junit/CalculaterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_Javaweb基础/src/itcast/junit/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_Javaweb基础/src/pro.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_Javaweb基础/src/reflect/ReflectDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_Javaweb基础/src/reflect/ReflectDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_Javaweb基础/src/reflect/ReflectDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_Javaweb基础/src/reflect/ReflectDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_Javaweb基础/src/reflect/ReflectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_Javaweb基础/src/test/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-2-code/src/demo04/Demo01System.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-2-code/src/demo04/Demo01System.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_Net/src/demo01/TCP/TCPClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/11_Net/src/demo01/TCP/TCPClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_Net/src/demo01/TCP/TCPServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/11_Net/src/demo01/TCP/TCPServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_Net/src/demo02/FileUpload/TCPClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/11_Net/src/demo02/FileUpload/TCPClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_Net/src/demo02/FileUpload/TCPServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/11_Net/src/demo02/FileUpload/TCPServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_Net/src/demo03/FileUpload/TCPClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/11_Net/src/demo03/FileUpload/TCPClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_Net/src/demo03/FileUpload/TCPServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/11_Net/src/demo03/FileUpload/TCPServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_Net/src/demo04/BSTCP/TCPServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/11_Net/src/demo04/BSTCP/TCPServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_Net/src/demo04/BSTCP/TCPServerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/11_Net/src/demo04/BSTCP/TCPServerThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/02_CollectionAndReflect/META-INF/02_CollectionAndReflect.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03_ListAndSet/demo02/Set/Demo01HashCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03_ListAndSet/demo02/Set/Demo03HashSetSavePerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/03_ListAndSet/demo02/Set/Demo03HashSetSavePerson.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03_ListAndSet/demo02/Set/Demo04LinkedHashSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/03_ListAndSet/demo02/Set/Demo04LinkedHashSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03_ListAndSet/demo02/Set/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/03_ListAndSet/demo02/Set/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/04_Map/demo01/Map/Demo01Map.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/04_Map/demo01/Map/Demo02KeySet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/04_Map/demo01/Map/Demo03EntrySet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/04_Map/demo02/Map/Demo01HashMapSavePerson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/04_Map/demo02/Map/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/04_Map/demo03/Map/Demo01LinkedHashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/04_Map/demo03/Map/Demo02Hashtable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/04_Map/demo03/Map/Demo03MapTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/04_Map/demo04/JDK9/Demo01JDK9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/04_Map/demo05/Debug/Demo01Debug.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/04_Map/demo06/Test/DouDiZhu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_ExceptionAndThread/com/itheima/demo01/Exception/Demo01Exception.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_ExceptionAndThread/com/itheima/demo01/Exception/Demo02Exception.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_ExceptionAndThread/com/itheima/demo01/Exception/Demo03Throw.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_ExceptionAndThread/com/itheima/demo01/Exception/Demo04Objects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_ExceptionAndThread/com/itheima/demo01/Exception/Demo05Throws.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_ExceptionAndThread/com/itheima/demo02/Exception/Demo01TryCatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_ExceptionAndThread/com/itheima/demo02/Exception/Demo02TryCatchFinally.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_ExceptionAndThread/com/itheima/demo03/Exception/Demo01Exception.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_ExceptionAndThread/com/itheima/demo03/Exception/Demo02Exception.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_ExceptionAndThread/com/itheima/demo03/Exception/Fu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_ExceptionAndThread/com/itheima/demo03/Exception/Zi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_ExceptionAndThread/com/itheima/demo04/MyException/Demo01RegisterException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_ExceptionAndThread/com/itheima/demo04/MyException/Demo02RegisterException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_ExceptionAndThread/com/itheima/demo04/MyException/RegisterException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_ExceptionAndThread/com/itheima/demo05/Thread/Demo01MainThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_ExceptionAndThread/com/itheima/demo05/Thread/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_ExceptionAndThread/com/itheima/demo06/Thread/Demo01Thread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_ExceptionAndThread/com/itheima/demo06/Thread/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_Thread/com/itheima/demo01/getName/Demo01GetThreadName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_Thread/com/itheima/demo01/getName/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_Thread/com/itheima/demo02/setName/Demo01SetThreadName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_Thread/com/itheima/demo02/setName/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_Thread/com/itheima/demo03/sleep/Demo01Sleep.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_Thread/com/itheima/demo04/Runnable/Demo01Runnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_Thread/com/itheima/demo04/Runnable/RunnableImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_Thread/com/itheima/demo04/Runnable/RunnableImpl2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_Thread/com/itheima/demo05/InnerClassThread/Demo01InnerClassThread$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_Thread/com/itheima/demo05/InnerClassThread/Demo01InnerClassThread$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_Thread/com/itheima/demo05/InnerClassThread/Demo01InnerClassThread$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_Thread/com/itheima/demo05/InnerClassThread/Demo01InnerClassThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_Thread/com/itheima/demo06/ThreadSafe/Demo01Ticket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_Thread/com/itheima/demo06/ThreadSafe/RunnableImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_Thread/com/itheima/demo07/Synchronized/Demo01Ticket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_Thread/com/itheima/demo07/Synchronized/RunnableImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_Thread/com/itheima/demo08/Synchronized/Demo01Ticket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_Thread/com/itheima/demo08/Synchronized/RunnableImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_Thread/com/itheima/demo09/Lock/Demo01Ticket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_Thread/com/itheima/demo09/Lock/RunnableImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_Thread/com/itheima/demo10/WaitAndNotify/Demo01WaitAndNotify$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_Thread/com/itheima/demo10/WaitAndNotify/Demo01WaitAndNotify$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_Thread/com/itheima/demo10/WaitAndNotify/Demo01WaitAndNotify.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_Thread/com/itheima/demo10/WaitAndNotify/Demo02WaitAndNotify$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_Thread/com/itheima/demo10/WaitAndNotify/Demo02WaitAndNotify$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_Thread/com/itheima/demo10/WaitAndNotify/Demo02WaitAndNotify$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_Thread/com/itheima/demo10/WaitAndNotify/Demo02WaitAndNotify.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07_ThreadAndLambda/com/itheima/demo01/WaitAndNotify/BaoZi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07_ThreadAndLambda/com/itheima/demo01/WaitAndNotify/BaoZiPu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07_ThreadAndLambda/com/itheima/demo01/WaitAndNotify/ChiHuo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07_ThreadAndLambda/com/itheima/demo01/WaitAndNotify/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07_ThreadAndLambda/com/itheima/demo02/ThreadPool/Demo01ThreadPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07_ThreadAndLambda/com/itheima/demo02/ThreadPool/RunnableImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07_ThreadAndLambda/com/itheima/demo03/Lambda/Demo01Runnable$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07_ThreadAndLambda/com/itheima/demo03/Lambda/Demo01Runnable$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07_ThreadAndLambda/com/itheima/demo03/Lambda/Demo01Runnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07_ThreadAndLambda/com/itheima/demo03/Lambda/Demo02Lambda$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07_ThreadAndLambda/com/itheima/demo03/Lambda/Demo02Lambda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07_ThreadAndLambda/com/itheima/demo03/Lambda/RunnableImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07_ThreadAndLambda/com/itheima/demo04/Lambda/Cook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07_ThreadAndLambda/com/itheima/demo04/Lambda/Demo01Cook$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07_ThreadAndLambda/com/itheima/demo04/Lambda/Demo01Cook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07_ThreadAndLambda/com/itheima/demo05/Lambda/Demo01Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07_ThreadAndLambda/com/itheima/demo05/Lambda/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07_ThreadAndLambda/com/itheima/demo06/Lambda/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07_ThreadAndLambda/com/itheima/demo06/Lambda/Demo01Calculator$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07_ThreadAndLambda/com/itheima/demo06/Lambda/Demo01Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07_ThreadAndLambda/com/itheima/demo07/Lambda/Demo01ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/08_FileAndRecursion/META-INF/08_FileAndRecursion.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/08_FileAndRecursion/demo01/Demo01File.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/08_FileAndRecursion/demo01/Demo02File.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/08_FileAndRecursion/demo01/Demo03File.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/08_FileAndRecursion/demo01/Demo04File.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/08_FileAndRecursion/demo01/Demo05File.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/08_FileAndRecursion/demo01/Demo06File.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/08_FileAndRecursion/demo02/Recursion/Demo01Recurison.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/08_FileAndRecursion/demo02/Recursion/Demo02Recurison.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/08_FileAndRecursion/demo02/Recursion/Demo03Recurison.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/08_FileAndRecursion/demo02/Recursion/Demo04Recurison.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/08_FileAndRecursion/demo02/Recursion/Demo05Recurison.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/08_FileAndRecursion/demo03Filter/Demo01Filter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/08_FileAndRecursion/demo03Filter/Demo02Filter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/08_FileAndRecursion/demo03Filter/FileFilterImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/09_IOAndProperties/itheima/Demo04/Reader/Demo01InputStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/09_IOAndProperties/itheima/Demo04/Reader/Demo02Reader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/09_IOAndProperties/itheima/Demo05Writer/Demo01Writer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/09_IOAndProperties/itheima/Demo05Writer/Demo02CloseAndFlush.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/09_IOAndProperties/itheima/Demo05Writer/Demo03Writer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/09_IOAndProperties/itheima/Demo05Writer/Demo04Writer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/09_IOAndProperties/itheima/demo01/OutputStream/Demo01OutputStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/09_IOAndProperties/itheima/demo01/OutputStream/Demo02OutputStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/09_IOAndProperties/itheima/demo01/OutputStream/Demo03OutputStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/09_IOAndProperties/itheima/demo02/InputStream/Demo01InputStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/09_IOAndProperties/itheima/demo02/InputStream/Demo02InputStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/09_IOAndProperties/itheima/demo03/CopyFile/Demo01CopyFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/09_IOAndProperties/itheima/demo06/trycatch/Demo01TryCatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/09_IOAndProperties/itheima/demo06/trycatch/Demo02JDK7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/09_IOAndProperties/itheima/demo06/trycatch/Demo03JDK9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/09_IOAndProperties/itheima/demo07/Prop/Demo01Properties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/11_Net/demo01/TCP/TCPClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/11_Net/demo01/TCP/TCPClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/11_Net/demo01/TCP/TCPServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/11_Net/demo01/TCP/TCPServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/11_Net/demo02/FileUpload/TCPClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/11_Net/demo02/FileUpload/TCPClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/11_Net/demo02/FileUpload/TCPServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/11_Net/demo02/FileUpload/TCPServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/11_Net/demo03/FileUpload/TCPClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/11_Net/demo03/FileUpload/TCPClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/11_Net/demo03/FileUpload/TCPServer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/11_Net/demo03/FileUpload/TCPServer$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/11_Net/demo03/FileUpload/TCPServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/11_Net/demo03/FileUpload/TCPServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/11_Net/demo04/BSTCP/TCPServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/11_Net/demo04/BSTCP/TCPServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/11_Net/demo04/BSTCP/TCPServerThread$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/11_Net/demo04/BSTCP/TCPServerThread$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/11_Net/demo04/BSTCP/TCPServerThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/11_Net/demo04/BSTCP/TCPServerThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/12_基础加强/annotation/AnnoDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/12_基础加强/annotation/AnnoDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/12_基础加强/annotation/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/12_基础加强/annotation/Demo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/12_基础加强/annotation/MyAnno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/12_基础加强/annotation/MyAnno2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/12_基础加强/annotation/MyAnno3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/12_基础加强/annotation/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/12_基础加强/annotation/Pro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/12_基础加强/annotation/ReflectTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/12_基础加强/annotation/Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/12_基础加强/annotation/Worker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/12_基础加强/annotation/demo/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/12_基础加强/annotation/demo/Check.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/12_基础加强/annotation/demo/TestCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/12_基础加强/cn/itcast/domain/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/12_基础加强/cn/itcast/domain/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/12_基础加强/cn/itcast/junit/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/12_基础加强/cn/itcast/junit/CalculatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/12_基础加强/cn/itcast/reflect/ReflectDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/12_基础加强/cn/itcast/reflect/ReflectDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/12_基础加强/cn/itcast/reflect/ReflectDemo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/12_基础加强/cn/itcast/reflect/ReflectDemo4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/12_基础加强/cn/itcast/reflect/ReflectTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/12_基础加强/cn/itcast/test/CalculatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/12_基础加强/pro.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/13_JDBC/META-INF/13_JDBC.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/13_JDBC/itcast/jdbc/domain/Emp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/13_JDBC/itcast/jdbc/jdbcDemo01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/13_JDBC/itcast/jdbc/jdbcDemo02_Insert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/13_JDBC/itcast/jdbc/jdbcDemo03_Update.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/13_JDBC/itcast/jdbc/jdbcDemo04_Delete.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/13_JDBC/itcast/jdbc/jdbcDemo05_DDl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/13_JDBC/itcast/jdbc/jdbcDemo06_ResultSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/13_JDBC/itcast/jdbc/jdbcDemo07_ResultSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/13_JDBC/itcast/jdbc/jdbcDemo08_select.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/13_JDBC/itcast/jdbc/jdbcDemo09_jdbcutil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/13_JDBC/itcast/jdbc/jdbcDemo10Land.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/13_JDBC/itcast/jdbc/jdbcDemo10Land0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/13_JDBC/itcast/jdbc/jdbcDemo10Land1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/13_JDBC/itcast/jdbc/jdbcDemo11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/13_JDBC/itcast/jdbc/util/JDBCUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/14_dataSource_jdbcTemplate/META-INF/14_dataSource_jdbcTemplate.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/14_dataSource_jdbcTemplate/cn/itcast/datasource/c3p0/C3P0DDemo01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/14_dataSource_jdbcTemplate/cn/itcast/datasource/c3p0/c3p0Demo02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/14_dataSource_jdbcTemplate/domain/Emp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/14_dataSource_jdbcTemplate/druid/DruidDemo01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/14_dataSource_jdbcTemplate/druid/DruidDemo02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/14_dataSource_jdbcTemplate/jdbcTemplate/jdbcTemplateDemo01$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/14_dataSource_jdbcTemplate/jdbcTemplate/jdbcTemplateDemo01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/14_dataSource_jdbcTemplate/jdbcTemplate/jdbcTemplateDemo02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/14_dataSource_jdbcTemplate/utils/JDBCUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/RedPacket/demo41BootStrap/DootStrap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/RedPacket/demo41BootStrap/MyRed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/RedPacket/demo41BootStrap/NormalMode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/RedPacket/red/OpenMode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/RedPacket/red/RedPacketFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/RedPacket/red/RedPacketFrame$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/RedPacket/red/RedPacketFrame$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/RedPacket/red/RedPacketFrame$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/RedPacket/red/RedPacketFrame$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/RedPacket/red/RedPacketFrame$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/RedPacket/red/RedPacketFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/day01/demo01/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo02/Demo01Method.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo02/Demo02MethodDefine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo02/Demo03MethodParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo02/Demo04MethodReturn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo03/Demo01MethodSame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo03/Demo02MethodSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo03/Demo03Notice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo04/Demo01MethodOverload.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo04/Demo02MethodOverloadSame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo04/Demo03Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo04/Demo04ArryUse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo04/Demo05Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo04/Demo06Biggest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo04/Demo07ArrayReverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo04/Demo08ArrayReturn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo05/Demo01PrintArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo05/Demo02Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo05/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo06/Iphone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo06/IphoneX.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo06/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo06/PhoneParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo06/PhoneReturn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo07/Demo01VariableDifference.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo07/Demo02Method.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo07/Demo03Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo07/Demo04Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo07/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo07/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo08/Demo01Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo08/Demo02Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo08/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo08/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo09/Demo01Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo09/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo10/Demo01Scanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo10/Demo02ScannerSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo10/Demo03ScannerMax.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo11/Demo01Anynymous.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo11/Demo02Anyonymous.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo11/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo12/Demo01Random.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo12/Demo02RandomGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo13/Demo01Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo13/Demo02ArrayListMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo13/Demo03ArrayListEach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo13/Demo04ArrayListBasic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo13/Demo04ArrayListReturn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo13/Demo05ArrayRandom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo13/Demo06ArrayListPrint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo13/DemoArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo13/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo14/Demo01String.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo14/Demo02StringPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo14/Demo03StringEquals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo14/Demo04StringGet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo14/Demo05SubString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo14/Demo06StringConvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo14/Demo07StringSplit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo14/Demo08StringPractise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo14/Demo09StringCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo15/Demo01Static.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo15/Demo02StaticMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo15/Demo03StaticStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo15/Demo04Static.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo15/Myclass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo15/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo15/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo16/Demo01Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo16/Demo02ArraysPractise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo16/Demo03Math.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo16/Demo04MathPractise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo17/Assistant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo17/Demo01Extends.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo17/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo17/Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo18/Demo01ExtendField.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo18/Fu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo18/Zi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo19/Demo01Override.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo19/Fu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo19/Zi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo20/Demo01Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo20/NewPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo20/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo21/Demo01Constructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo21/Fu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo21/Zi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo22/Fu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo22/Zi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo23/Fu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo23/Zi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo24/Demo01main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo24/Fu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo24/Zi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo25/Demo01Extends.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo26/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo26/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo26/Demo01Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo27/Fu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo27/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo27/Sun.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo27/Sun1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo27/Zi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo27/Zi1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo28/MainRedPacket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo28/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo28/Menber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo28/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo29/Demo01Interface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo29/Demo02Interface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo29/Demo03Interface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo29/Demo04Interface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo29/Demo05Explain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo29/MyInterfaceAbstract.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo29/MyInterfaceAbstractImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo29/MyInterfaceConst.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo29/MyInterfaceDefault.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo29/MyInterfaceDefaultA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo29/MyInterfaceDefaultB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo29/MyInterfaceExplain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo29/MyInterfaceExplainA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo29/MyInterfacePrivateA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo29/MyInterfacePrivateAImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo29/MyInterfaceStatic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo29/MyInterfaceStaticImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo30/Demo01Relations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo30/MyInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo30/MyInterfaceA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo30/MyInterfaceB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo30/MyInterfaceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo31/Demo01Multi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo31/Demo02MultiMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo31/Fu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo31/Zi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo32/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo32/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo32/Demo01Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo32/Demo02Instanceof.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo32/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo33/Computer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo33/Demo01Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo33/Keyboard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo33/Mouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo33/USB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo34/Demo01Final.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo34/Fu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo34/MyClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo34/MySubclass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo34/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo34/Zi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo35/Demo01Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo35/MyAnthor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo35/MyClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo35/sub/MySon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo35/sub/Stranger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo36/Body$Heart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo36/Body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo36/Demo01InnerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo36/Demo02InnerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo36/Outer$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo36/Outer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo37/Demomain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo37/MyOuter$1MyInner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo37/MyOuter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo37/Outer$1Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo37/Outer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo38/DemoMain$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo38/DemoMain$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo38/DemoMain$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo38/DemoMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo38/MyInnerface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo38/MyInnerfaceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo39/Demomain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo39/Hero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo39/Weanpon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo40/DemoInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo40/Hero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo40/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo40/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo40/Skill.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-01-code/demo40/SkillImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-02-code/META-INF/day-02-code.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-02-code/demo01/Demo01toString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-02-code/demo01/Demo02Equals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-02-code/demo01/Demo03Object.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-02-code/demo01/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-02-code/demo02/Demo01Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-02-code/demo02/Demo02Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-02-code/demo02/Demo02Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-02-code/demo02/Demo03DataFormat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-02-code/demo03/Demo01Calendar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-02-code/demo03/Demo02Calendar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-02-code/demo04/Demo01System.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-02-code/demo05/Demo01StringBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-02-code/demo05/Demo02StringBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-02-code/demo05/Demo03StringBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-02-code/demo06/Demo01Integer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-02-code/demo06/Demo02Ineger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-02-code/demo06/Demo03Integer.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,27 +424,233 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="777" />
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="IDEAProject" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/09_IOAndProperties/src/itheima/demo01/OutputStream/Demo01OutputStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="498">
+              <caret line="43" column="51" lean-forward="true" selection-start-line="43" selection-start-column="51" selection-end-line="43" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/09_IOAndProperties/src/itheima/demo01/OutputStream/Demo02OutputStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/09_IOAndProperties/src/itheima/demo02/InputStream/Demo01InputStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="42" column="46" lean-forward="true" selection-start-line="42" selection-start-column="46" selection-end-line="42" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/09_IOAndProperties/src/itheima/demo03/CopyFile/Demo01CopyFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="246">
+              <caret line="24" column="69" lean-forward="true" selection-start-line="24" selection-start-column="69" selection-end-line="24" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/09_IOAndProperties/src/itheima/Demo04/Reader/Demo01InputStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>scanner</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_CONFIG_DIR$/idea.properties" />
+        <option value="$PROJECT_DIR$/11_Net/src/demo01/TCP/TCPServer.java" />
+        <option value="$PROJECT_DIR$/11_Net/src/demo01/TCP/TCPClient.java" />
+        <option value="$PROJECT_DIR$/11_Net/src/demo02/FileUpload/TCPClient.java" />
+        <option value="$PROJECT_DIR$/11_Net/src/demo03/FileUpload/TCPServer.java" />
+        <option value="$PROJECT_DIR$/11_Net/src/demo03/FileUpload/TCPClient.java" />
+        <option value="$PROJECT_DIR$/11_Net/src/demo02/FileUpload/TCPServer.java" />
+        <option value="$PROJECT_DIR$/11_Net/src/demo04/BSTCP/TCPServer.java" />
+        <option value="$PROJECT_DIR$/11_Net/src/demo04/BSTCP/TCPServerThread.java" />
+        <option value="$PROJECT_DIR$/15_Javaweb基础/src/itcast/junit/CalculaterTest.java" />
+        <option value="$PROJECT_DIR$/15_Javaweb基础/src/itcast/junit/Calculator.java" />
+        <option value="$PROJECT_DIR$/15_Javaweb基础/src/test.java" />
+        <option value="$PROJECT_DIR$/15_Javaweb基础/src/reflect/Hill.java" />
+        <option value="$PROJECT_DIR$/15_Javaweb基础/src/ShiftCipher.java" />
+        <option value="$PROJECT_DIR$/15_Javaweb基础/src/reflect/ReflectDemo1.java" />
+        <option value="$PROJECT_DIR$/15_Javaweb基础/src/test/ShiftCipher.java" />
+        <option value="$PROJECT_DIR$/encryption algorithm/src/Hilldome1.java" />
+        <option value="$PROJECT_DIR$/15_Javaweb基础/src/Hill.java" />
+        <option value="$PROJECT_DIR$/encryption algorithm/src/Vigenere.java" />
+        <option value="$PROJECT_DIR$/encryption algorithm/src/Vigeneredemo1.java" />
+        <option value="$PROJECT_DIR$/encryption algorithm/src/ShiftCipher.java" />
+        <option value="$PROJECT_DIR$/encryption algorithm/src/Hill.java" />
+        <option value="$PROJECT_DIR$/encryption algorithm/src/Cryptography.java" />
+        <option value="$PROJECT_DIR$/encryption algorithm/src/Daihuan.java" />
+        <option value="$PROJECT_DIR$/15_Javaweb基础/src/test/CalculatorTest.java" />
+        <option value="$PROJECT_DIR$/15_Javaweb基础/src/reflect/ReflectDemo2.java" />
+        <option value="$PROJECT_DIR$/15_Javaweb基础/src/reflect/ReflectDemo3.java" />
+        <option value="$PROJECT_DIR$/15_Javaweb基础/src/reflect/Person.java" />
+        <option value="$PROJECT_DIR$/15_Javaweb基础/src/reflect/ReflectDemo4.java" />
+        <option value="$PROJECT_DIR$/15_Javaweb基础/src/reflect/Student.java" />
+        <option value="$PROJECT_DIR$/15_Javaweb基础/src/domain/Student.java" />
+        <option value="$PROJECT_DIR$/15_Javaweb基础/src/pro.properties" />
+        <option value="$PROJECT_DIR$/15_Javaweb基础/src/reflect/ReflectTest.java" />
+        <option value="$PROJECT_DIR$/01-2-code/src/demo04/Demo01System.java" />
+        <option value="$PROJECT_DIR$/03_ListAndSet/src/demo01/List/Demo01List.java" />
+        <option value="$PROJECT_DIR$/05_ExceptionAndThread/src/com/itheima/demo01/Exception/Demo02Exception.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1306" />
+    <option name="y" value="37" />
+    <option name="width" value="1868" />
+    <option name="height" value="1031" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="IDEAProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="09_IOAndProperties" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDEAProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="09_IOAndProperties" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDEAProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="09_IOAndProperties" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDEAProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="09_IOAndProperties" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="OutputStream" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDEAProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="09_IOAndProperties" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="InputStream" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDEAProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="09_IOAndProperties" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="CopyFile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDEAProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="09_IOAndProperties" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="Reader" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/encryption algorithm/src" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/encryption algorithm/src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="reflect" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="reflect" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -43,9 +664,79 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Demo01List">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo01Integer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo06.Demo01Integer" />
+      <module name="01-2-code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo01List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo01.List.Demo01List" />
+      <module name="03_ListAndSet" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo01.List.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo03Integer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo06.Demo03Integer" />
+      <module name="01-2-code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reflect.ReflectDemo4" />
+      <module name="15_Javaweb基础" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reflect.ReflectTest" />
+      <module name="15_Javaweb基础" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reflect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -81,6 +772,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo01List" />
+        <item itemvalue="Application.Demo03Integer" />
+        <item itemvalue="Application.Demo01Integer" />
+        <item itemvalue="Application.ReflectTest" />
+        <item itemvalue="Application.ReflectDemo4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -90,47 +793,596 @@
       <option name="presentableId" value="Default" />
       <updated>1575685638209</updated>
       <workItem from="1575685640043" duration="7000" />
+      <workItem from="1576471413594" duration="2041000" />
+      <workItem from="1576473723164" duration="379000" />
+      <workItem from="1576474151006" duration="81000" />
+      <workItem from="1576474259919" duration="531000" />
+      <workItem from="1576474899116" duration="262000" />
+      <workItem from="1576475330461" duration="121000" />
+      <workItem from="1576476163202" duration="1048000" />
+      <workItem from="1576477705774" duration="63000" />
+      <workItem from="1576477771707" duration="8000" />
+      <workItem from="1576477806303" duration="214000" />
+      <workItem from="1576478435035" duration="973000" />
+      <workItem from="1576484598263" duration="739000" />
+      <workItem from="1576485549948" duration="11630000" />
+      <workItem from="1576854205079" duration="219000" />
+      <workItem from="1576907509732" duration="5142000" />
+      <workItem from="1576929789068" duration="938000" />
+      <workItem from="1577094503512" duration="1380000" />
+      <workItem from="1577494040233" duration="3234000" />
+      <workItem from="1578704247541" duration="4440000" />
+      <workItem from="1580959787125" duration="179000" />
+      <workItem from="1582814740299" duration="1103000" />
+      <workItem from="1585187263603" duration="7512000" />
+      <workItem from="1585221781493" duration="2807000" />
+      <workItem from="1585236249976" duration="135000" />
+      <workItem from="1585237026940" duration="3917000" />
+      <workItem from="1585582781348" duration="701000" />
+      <workItem from="1585728828556" duration="1426000" />
+      <workItem from="1585756686464" duration="2103000" />
+      <workItem from="1585805593961" duration="13000" />
+      <workItem from="1585808011882" duration="3000" />
+      <workItem from="1586164713341" duration="4193000" />
+      <workItem from="1586179574565" duration="425000" />
+      <workItem from="1586622936922" duration="553000" />
+      <workItem from="1586688476340" duration="230000" />
+      <workItem from="1586784839159" duration="355000" />
+      <workItem from="1586854124933" duration="3000" />
+      <workItem from="1587193125832" duration="702000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="CalculatorTest - 2019.12.20 at 21h 51m 30s.xml">
+      <configuration name="CalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorTest - 2019.12.21 at 13h 52m 09s.xml">
+      <configuration name="CalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorTest_testAdd - 2020.03.26 at 10h 14m 15s.xml">
+      <configuration name="CalculatorTest.testAdd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorTest_testAdd - 2020.03.26 at 10h 14m 47s.xml">
+      <configuration name="CalculatorTest.testAdd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorTest_testAdd - 2020.03.26 at 10h 18m 56s.xml">
+      <configuration name="CalculatorTest.testAdd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorTest_testAdd - 2020.03.26 at 10h 19m 15s.xml">
+      <configuration name="CalculatorTest.testAdd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorTest - 2020.03.26 at 10h 22m 17s.xml">
+      <configuration name="CalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorTest_testsub - 2020.03.26 at 10h 22m 39s.xml">
+      <configuration name="CalculatorTest.testsub" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorTest_testsub - 2020.03.26 at 10h 23m 06s.xml">
+      <configuration name="CalculatorTest.testsub" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorTest - 2020.03.26 at 10h 23m 15s.xml">
+      <configuration name="CalculatorTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7000" />
+    <option name="totallyTimeSpent" value="59810000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <frame x="1281" y="23" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49712643" visible="true" weight="0.21190988" />
+      <window_info id="Structure" order="1" sideWeight="0.50287354" side_tool="true" weight="0.24428104" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.50287354" side_tool="true" weight="0.24428104" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4875" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32794118" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32916668" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="ConsoleMavenPlugin" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32755905" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32962587" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32924837" />
+      <window_info anchor="right" id="Coverage" order="7" side_tool="true" weight="0.32924837" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/IDEAProject$TCPClient.ic" NAME="TCPClient Coverage Results" MODIFIED="1576478531272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>demo01.TCP.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/15_Javaweb基础/src/reflect/ReflectDemo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1240">
+          <caret line="62" column="35" lean-forward="true" selection-start-line="62" selection-start-column="35" selection-end-line="62" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15_Javaweb基础/src/reflect/ReflectDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="66" column="34" selection-start-line="66" selection-start-column="34" selection-end-line="66" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/encryption algorithm/src/Cryptography.java" />
+    <entry file="file://$PROJECT_DIR$/01-1-code/src/RedPacket/demo41BootStrap/DootStrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15_Javaweb基础/src/domain/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-237">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#933#934#0" expanded="true" />
+            <element signature="e#970#971#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15_Javaweb基础/src/domain/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#63#64#0" expanded="true" />
+            <element signature="e#110#111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15_Javaweb基础/src/pro.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12_数据库基础加强/src/annotation/AnnoDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15_Javaweb基础/src/itcast/junit/CalculaterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15_Javaweb基础/src/reflect/ReflectDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15_Javaweb基础/src/reflect/ReflectTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15_Javaweb基础/src/reflect/ReflectDemo4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-1-code/src/day01/demo01/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-1-code/src/demo02/Demo01Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-1-code/src/demo03/Demo02MethodSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-1-code/src/demo03/Demo01MethodSame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-1-code/src/demo02/Demo04MethodReturn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-1-code/src/demo02/Demo03MethodParam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-1-code/src/demo02/Demo02MethodDefine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_Map/src/demo01/Map/Demo02KeySet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_Map/src/demo01/Map/Demo01Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1760">
+          <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
+          <folding>
+            <element signature="e#797#798#0" expanded="true" />
+            <element signature="e#821#822#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-1-code/src/demo03/Demo03Notice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_Thread/src/com/itheima/demo01/getName/Demo01GetThreadName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_Thread/src/com/itheima/demo02/setName/Demo01SetThreadName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-1-code/src/demo04/Demo01MethodOverload.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding>
+            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-2-code/src/demo04/Demo01System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="56" column="41" lean-forward="true" selection-start-line="56" selection-start-column="41" selection-end-line="56" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-2-code/src/demo03/Demo02Calendar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-2-code/src/demo03/Demo01Calendar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="48" lean-forward="true" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-2-code/src/demo02/Demo01Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-2-code/src/demo01/Demo01toString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-2-code/src/demo01/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+          <folding>
+            <element signature="e#1984#1985#0" expanded="true" />
+            <element signature="e#2030#2031#0" expanded="true" />
+            <element signature="e#2061#2062#0" expanded="true" />
+            <element signature="e#2088#2089#0" expanded="true" />
+            <element signature="e#2128#2129#0" expanded="true" />
+            <element signature="e#2160#2161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-2-code/src/demo05/Demo01StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-2-code/src/demo05/Demo02StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-2-code/src/demo05/Demo03StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-2-code/src/demo06/Demo01Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-2-code/src/demo06/Demo02Ineger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" column="10" lean-forward="true" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-2-code/src/demo06/Demo03Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_ListAndSet/src/demo01/List/Demo02LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="70" column="40" lean-forward="true" selection-start-line="70" selection-start-column="40" selection-end-line="70" selection-end-column="40" />
+          <folding>
+            <element signature="e#743#744#0" expanded="true" />
+            <element signature="e#767#768#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_ListAndSet/src/demo01/List/Demo01List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_ExceptionAndThread/src/com/itheima/demo04/MyException/Demo02RegisterException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_ListAndSet/src/demo02/Set/Demo01Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="35" column="34" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-1-code/src/demo34/Fu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-1-code/src/demo34/Demo01Final.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_ExceptionAndThread/src/com/itheima/demo01/Exception/Demo01Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_ExceptionAndThread/src/com/itheima/demo01/Exception/Demo02Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_ExceptionAndThread/src/com/itheima/demo04/MyException/Demo01RegisterException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_IOAndProperties/src/itheima/demo01/OutputStream/Demo01OutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="43" column="51" lean-forward="true" selection-start-line="43" selection-start-column="51" selection-end-line="43" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_IOAndProperties/src/itheima/demo01/OutputStream/Demo02OutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_IOAndProperties/src/itheima/demo02/InputStream/Demo01InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="42" column="46" lean-forward="true" selection-start-line="42" selection-start-column="46" selection-end-line="42" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_IOAndProperties/src/itheima/Demo04/Reader/Demo01InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_IOAndProperties/src/itheima/demo03/CopyFile/Demo01CopyFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="24" column="69" lean-forward="true" selection-start-line="24" selection-start-column="69" selection-end-line="24" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>15_Javaweb基础</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>libs</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

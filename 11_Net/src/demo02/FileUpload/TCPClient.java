@@ -37,7 +37,7 @@ TCP文件上传案例：
 public class TCPClient {
     public static void main(String[] args) throws IOException{
         //1.创建一个本地字节输入流FileInputStream对象,构造方法中绑定要读取的数据源
-        FileInputStream file = new FileInputStream("/Users/aboge/IDEAProject/11_Net/1.jpg");
+        FileInputStream file = new FileInputStream("/Users/aboge/代码库/IDEAProject/11_Net/1.jpg");
         //2.创建一个客户端Socket对象,构造方法中绑定服务器的IP地址和端口号
         Socket socket = new Socket("127.0.0.1",8888);
         //3.使用Socket中的方法getOutputStream,获取网络字节输出流OutputStream对象
@@ -45,7 +45,7 @@ public class TCPClient {
         //4.使用本地字节输入流FileInputStream对象中的方法read,读取本地文件
         int len = 0;
         byte[] bytes = new byte[1024];
-        //while循环保证了在读取本地文件的时候不会读取到"-1"标志，因此在传递输出字节流给服务器端的时候也不会把"-1"标志符传递给服务器端
+        //while循环保证了在读取本地文件的时候不会读取到"-1"标志，因此在zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz传递输出字节流给服务器端的时候也不会把"-1"标志符传递给服务器端
         while ((len = file.read(bytes)) != -1){
             //5.使用网络字节输出流OutputStream对象中的方法write,把读取到的文件上传到服务器
             os.write(bytes,0,len);

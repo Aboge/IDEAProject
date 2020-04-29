@@ -31,7 +31,7 @@ import java.net.Socket;
 public class TCPServer {
     public static void main(String[] args) throws IOException {
         //1.创建服务器ServerSocket对象和系统要指定的端口号
-        ServerSocket server = new ServerSocket(8888);
+        ServerSocket server = new ServerSocket(12345);
         //2.使用ServerSocket对象中的方法accept,获取到请求的客户端对象Socket
         Socket socket = server.accept();
         //3.使用Socket对象中的方法getInputStream()获取网络字节输入流InputStream对象

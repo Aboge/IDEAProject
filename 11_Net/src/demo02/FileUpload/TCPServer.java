@@ -12,7 +12,7 @@ import java.net.Socket;
 
     明确:
         数据源:客户端上传的文件
-        目的地:服务器的硬盘 /Users/aboge/IDEAProject/11_Net/server
+        目的地:服务器的硬盘 /Users/aboge/代码库/IDEAProject/11_Net/server
 
     实现步骤:
         1.创建一个服务器ServerSocket对象,和系统要指定的端口号
@@ -36,7 +36,7 @@ public class TCPServer {
         InputStream is = socket.getInputStream();
 
         //4.判断/Users/aboge/IDEAProject/11_Net/server 文件夹是否存在,不存在则创建
-        File file = new File("/Users/aboge/IDEAProject/11_Net/server");
+        File file = new File("/Users/aboge/代码库/IDEAProject/11_Net/server");
         if (!file.exists()){
             file.mkdirs();
         }

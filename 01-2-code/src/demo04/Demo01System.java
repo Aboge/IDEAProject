@@ -35,7 +35,7 @@ public class Demo01System {
         //定义目标数组
         int[] dest = {6,7,8,9,10};
         System.out.println("复制前" + Arrays.toString(dest));
-        //使用System类当中的arraycopy把源数组的前3个元素复制到慕白哦数组的前3个位置上
+        //使用System类当中的arraycopy把源数组的前3个元素复制到dest数组的前3个位置上
         System.arraycopy(src,0,dest,0,3);
         System.out.println("复制后" + Arrays.toString(dest));
     }

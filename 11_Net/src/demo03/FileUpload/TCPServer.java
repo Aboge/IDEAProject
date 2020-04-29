@@ -53,7 +53,7 @@ public class TCPServer {
                        //3.使用Socket对象中的方法getInputStream,获取到网络字节输入流InputStream对象
                        InputStream is = socket.getInputStream();
                        //4.判断/Users/aboge/IDEAProject/11_Net/server文件夹是否存在,不存在则创建
-                       File file =  new File("/Users/aboge/IDEAProject/11_Net/server");
+                       File file =  new File("/Users/aboge/代码库/IDEAProject/11_Net/server");
                        if(!file.exists()){
                            file.mkdirs();
                        }
